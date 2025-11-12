@@ -1,5 +1,6 @@
 # surreal_numbers
-Software that implements all procedures and functions related to surreal numbers
+Software that implements all procedures and functions related to surreal numbers.
+https://marcomattiucci.it/matematica_iperreali_superreali_surreali.php
 
 This SW provides procedures and fucntions for handling surreal numbers and their conversion to/from decimals, integers, and fractions. 
 It also provides procedures for addition, subtraction, sign change, multiplication, inversion, and division operations between surreal numbers.
